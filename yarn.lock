@@ -984,11 +984,6 @@
   resolved "https://registry.npmjs.org/@eslint/js/-/js-8.36.0.tgz#9837f768c03a1e4a30bd304a64fb8844f0e72efe"
   integrity sha512-lxJ9R5ygVm8ZWgYdUweoq5ownDlJ4upvoWmO4eLxBYHdMo+vZ/Rx0EN6MbKWDJOSUGrqJy2Gt+Dyv/VKml0fjg==
 
-"@f119/eslint-config-typescript-node@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.npmjs.org/@f119/eslint-config-typescript-node/-/eslint-config-typescript-node-0.0.1.tgz#35137c31e4bc8b6957ff3a4d8e65306a7e4cb98f"
-  integrity sha512-4f/IUefoJm3io40TvJVzb5DSYqKCLcpKanVJ0/ORhXFzq3gB/W3pLFN5hxKsQfQPOTyod6plrPOpb2ott6xuog==
-
 "@humanwhocodes/config-array@^0.11.8":
   version "0.11.8"
   resolved "https://registry.npmjs.org/@humanwhocodes/config-array/-/config-array-0.11.8.tgz#03595ac2075a4dc0f191cc2131de14fbd7d410b9"
@@ -1073,6 +1068,11 @@
   dependencies:
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
+
+"@rr1/eslint-config-typescript-node@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.npmjs.org/@rr1/eslint-config-typescript-node/-/eslint-config-typescript-node-0.0.1.tgz#61f61cdaf21b73e555f526c1808f8bc1ba5edd0e"
+  integrity sha512-T7hR9xTNdTOYHXL9tudvYABE8AyDLYpyyzQI0AYriCEUJoG1v31f1lZenWiotj58AV0sK/yUKCQXkls7ogigQQ==
 
 "@types/minimist@^1.2.2":
   version "1.2.2"
