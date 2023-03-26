@@ -31,3 +31,10 @@ scripts: {
 commitlint: 用于统一规范提交信息。
 
 添加commit-msg钩子：`npx husky add .husky/commit-msg "npx --no -- commitlint --edit $1"`
+
+增加commitlint-config.js文件配置：
+```
+module.exports = {
+  extends: ['@commitlint/config-conventional'],
+};
+```
