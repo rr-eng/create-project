@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "allowUnreachableCode": false, // 是否允许无法访问的代码
+    "allowUnusedLabels": false, // 是否允许未使用的标签
+    "declaration": true,
+    "esModuleInterop": true, // 允许export=导出，由import from导入
+    "module": "esnext", // 生成代码的模板标准
+    "moduleResolution": "node",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "pretty": true,
+    "strict": true,
+    "target": "esnext",
+    "skipLibCheck": true,
+    "jsx": "preserve"
+  }
+}

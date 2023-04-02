@@ -11,9 +11,9 @@ const cwd = process.cwd();
 
 const TEMPLATES = [
   {
-    name: 'vue-cli',
-    message: '基于vue3官方提供的脚手架vue-cli，创建的项目',
-    value: '项目一模板',
+    name: 'vue3-webpack5-typescript',
+    message: 'vue3 + webpack5 + typescript 实现的多页面项目',
+    value: 'vue3 + webpack5 + typescript 实现的多页面项目',
   },
   {
     name: 'project-two',
